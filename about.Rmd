@@ -1,0 +1,19 @@
+---
+title: "Hey there!"
+output:
+  html_document
+---
+
+<div style="width: 40%; height: auto; float: left; margin-right: 5%; margin-top: 8%;">
+![](kitagawa.png)
+</div>
+<div style="font-size: 1em; margin-left: 35%; margin-top: 5%;">
+Ever since I was a kid I was obsessed with romance. I think part of the reason I liked Peter Pan so much (the 2003 live action with Jeremy Sumpter, of course) was because of the subplot of Peter and Wendy's budding love (also even John and Tiger Lily like they really did have some cute lovey scenes in there huh?). 
+
+Growing up this obsession mainly meant watching a ton of romcom movies with my sisters (think prime Ryan Reynolds like The Proposal, Definitely Maybe, etc etc). I also had always enjoyed cartoons and whatever anime was played on TV (usually shonens). It wasn't until I was an adult, grew up, and got my first Crunchyroll subscription that I combined these two interests and watched romcom animes. And BOY did I love it -- haven't turned back since.
+
+After binging many a romcom anime, I have so many thoughts and opinions I want to share but few to share them with. So, that's why I created this blog! It most likely will be a place to shout into the void, maybe share with a few close friends. But, hey, if you're a rando on the internet and end up reading this shit power to you. <3
+</div>
+<div style="margin-top:10%">
+P.S. In terms of the blog name, Toradora! was simply my first and favorite romcom anime. Ugh such a classic, I need to rewatch it for real... the "Riuuji is mine" pool scene ... OK I am actually gonna go rewatch it hope you enjoy the site pce :)
+</div>

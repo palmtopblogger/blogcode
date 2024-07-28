@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Serif+JP:wght@300&display=swap');
+
+
+/*------------- Whole Document---------------- */
+
+body {
+    font-family: 'Lobster', sans-serif;
+    font-size: 19px;
+    background-color: #F4C2C2;
+    color: #5D2E46
+}
+
+/*------------- Navigation Bar ---------------- */
+/* general navigation bar style */
+.navbar {
+  background-color: #5D2E46;
+  color: #F4C2C2;
+  border-bottom: 3px solid white;
+}
+/* style of buttons */
+.navbar-nav > li > a,
+/* style of buttons when hovered */
+.navbar-nav > li > a:hover,
+/* style of title */
+.navbar-brand,
+/* style of buttons when active */
+.navbar-nav > li.active > a {
+  background-color: #5D2E46 !important;
+  color: #F4C2C2 !important;
+}
+
+/* Links */
+/* Default link style */
+a {
+  color: #F7F3E3; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Style for visited links */
+a:visited {
+  color: #561F37; /* Visited link color */
+}
+
+/* Style for hover (mouse-over) */
+a:hover {
+  color: #E8D2CA; /* Hover link color */
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Style for active links (when clicked) */
+a:active {
+  color: #5D2E46 !important; /* Active link color */
+}
+
+/* Style for horizongal line */
+hr {
+    border: none;             /* Remove default border */
+    height: 2px;              /* Set height */
+    background-color: #5D2E46; /* Soft rose color */
+    margin: 20px 0;           /* Add some margin (top and bottom) */
+    width: 80%;               /* Set the width */
+    border-radius: 5px;       /* Rounded edges */
+}

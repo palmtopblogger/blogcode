@@ -1,0 +1,15 @@
+name: "my-website"
+exclude: ["download", "libs"]
+output_dir: "." ## for making website hostable on github with jekyll
+navbar:
+  title: "Palmtop Blogger"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Blog Posts"
+      href: posts.html
+
+output:
+  html_document:
+    theme: paper
+    css: style.css

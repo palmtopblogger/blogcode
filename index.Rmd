@@ -1,0 +1,30 @@
+---
+title: "Welcome to my blog :)"
+output:
+  html_document
+---
+
+<div style="width: 80%; height: auto; float: center; margin-left: 5%; margin-top: 0%;">
+![](toradora.png)
+</div>
+<div style="font-size: 1.1em; margin-left: 0%; margin-top: 7%; width: 45%">
+# A quick intro
+
+This blog is about all things romcom anime. Mainly just random thoughts and reviews of animes I watch so I don't end up boring my friends with 1,000-word texts on the topic.
+
+If someone happens to actually enjoy it or wants to discuss what I write about further that'd be super cool too! :)
+
+Don't take anything too seriously, though. I am simply a dumb stoner opining to the void we call the internet.
+
+-Palmtop Blogger
+</div>
+<div style="margin-left: 55%; margin-top: -55%; width: 50%">
+![](love_is_war.png)
+</div>
+
+<div style="font-color: red; font-size: 2em; margin-top: 20%; margin-left:15%">
+----------------------------------------------------------------------------------------------------------------------------------------
+</div>
+<div style="font-size: 0.9em; height: auto; text-align: center;">
+romcom anime supremacy >:)
+</div>
